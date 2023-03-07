@@ -1,0 +1,28 @@
+.btnadd{
+    background-color: blue;
+    color: white;
+    padding: 10px 30px;
+    display: flex;
+    flex-direction: flex-end;
+    margin: 20px auto;
+    font-weight: bold;
+
+}
+.btnadd:hover{
+    background-color: green;
+}
+table{
+    width: 80vw;
+    text-align: center;
+    background-color: rgb(217, 214, 214);
+}
+
+tr{
+    width: 100%;
+
+}
+td{
+    padding: 10px;
+    font-weight: bold;
+
+}
